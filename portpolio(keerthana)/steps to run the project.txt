@@ -1,0 +1,7 @@
+1.In index.html, replace <a href="#">About</a> with <a href="about.html">About</a>, 
+2.<a href="#">Contact Details</a> with <a href="contact.html">Contact Details</a>,
+3.<a href="#">Download CV</a> with <a href="download.html">Download CV</a>, 
+4.<a href="#">Projects</a> with <a href="project.html">Projects</a>, 
+5.<a href="#">Resume</a> with <a href="resume.html">Resume</a>, 
+6.<a href="#">Skill</a> with <a href="skill.html">Skill</a>, 
+7. replace <img src="#" alt=""> with <img src="photo.jpg" alt="Profile Photo">.
